@@ -12,7 +12,6 @@ using namespace std;
 
 int main() {
     
-    
     int sumi =0;
     int sumk=0;
     int a, col;
