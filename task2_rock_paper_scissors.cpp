@@ -120,7 +120,8 @@ int main() {
 
   
        }
-    
+        system("pause"); 
+        system("cls");
    }
 
     return 0;
